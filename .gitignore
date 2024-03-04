@@ -1,0 +1,136 @@
+# Node.js
+######################
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+.npm/
+.pnpm-store/
+pnpm-lock.yaml
+
+# Environment variables
+######################
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDEs and editors
+######################
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+.history/
+*.bak
+*.tmp
+*.code-workspace
+*.log
+.DS_Store
+Thumbs.db
+*.sln
+*.suo
+*.user
+*.userprefs
+*.unityproj
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+
+# Operating System
+######################
+.DS_Store
+Thumbs.db
+.dbshell
+*.pid
+*.pid.lock
+*.seed
+*.pid.db
+
+# Build directories
+######################
+/dist
+/build
+/out
+/.next/
+/.nuxt/
+/.vuepress/dist
+/.parcel-cache/
+/.svelte-kit/
+/.sapper/
+.electron-builder-out/
+/public/build/
+
+# Testing
+######################
+/coverage
+/.nyc_output
+
+# Dependency directories
+######################
+jspm_packages/
+bower_components/
+
+# TypeScript
+######################
+*.tsbuildinfo
+*.log
+
+# Linters
+######################
+.eslintcache
+.tslint.json
+.stylelintcache
+
+# Compiled Source #
+######################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+######################
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Python
+######################
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Refine specific (if any additional directories or files specific to Refine)
+######################
+# Add here any additional files or directories specific to Refine or your project structure
